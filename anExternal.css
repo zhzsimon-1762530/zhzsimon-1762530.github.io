@@ -1,0 +1,54 @@
+body{
+    background-color: powderblue;
+}
+
+p.FirstParagraph{
+    font-family: Verdana;
+    border: dotted;
+}
+
+p.SecondParagraph{
+    font-family: courier; 
+    padding: 50px;
+}
+
+img.cat{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.CatImage{
+    position: relative;
+    text-align: center;
+}
+
+h1{
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}
+
+img.sakura{
+    width: 50px; 
+    height: 50px;
+    float: left;
+}
+
+img.wallpaper{
+    width: 50px; 
+    height: 50px;
+}
+
+h3{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+}
